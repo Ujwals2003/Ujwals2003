@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="C:\Users\ADMIN\Desktop\DSC_0072.jpg"alt="Ujwal" width="200" height="200" style="border-radius:50%;">
+</div>
+
 # Hello, I'm Ujwal! 👋
 
 ## About Me
@@ -44,7 +48,7 @@ I'm currently pursuing my Bachelor of Engineering in Artificial Intelligence and
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://ujwal-portfolio.com)
 
 ## ⚡ Fun Fact
-When I'm not coding or studying, I enjoy writing code and  solving real world problems
+When I'm not coding or studying, I enjoy writing code and solving real world problems
 
 <!--
 Profile last updated: February 2025
