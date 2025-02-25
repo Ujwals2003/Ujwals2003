@@ -43,7 +43,7 @@ I'm currently pursuing my Bachelor of Engineering in Artificial Intelligence and
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujwal-s-7903b1261)  
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ujwals2003@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://github.com/topics/portfolio-website)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://ujwals2003.github.io/ujwalportfiolo/)
 
 
 ## ⚡ Fun Fact
