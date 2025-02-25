@@ -41,9 +41,9 @@ I'm currently pursuing my Bachelor of Engineering in Artificial Intelligence and
 - Data Engineering
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ujwal)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujwal-s-7903b1261)  
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ujwals2003@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://ujwal-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://github.com/topics/portfolio-website)
 
 
 ## ⚡ Fun Fact
