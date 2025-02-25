@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="C:\Users\ADMIN\Desktop\DSC_0072.jpg"alt="Ujwal" width="200" height="200" style="border-radius:50%;">
-</div>
+
 
 # Hello, I'm Ujwal! 👋
 
